@@ -157,6 +157,8 @@ module.exports = [{
         },
         tech_stack: ['React', 'React Native', 'Flutter', 'NodeJS'],
         hired: false
-    }
-
+    },
+{name:'Hasbiyallah', status:'Fulltime, Remote', role :'Back-end Developer', location:'Jakarta', social_media:{linkedIn:'https://www.linkedin.com/in/hasbiyallah-s-a5b776136',
+github:'https://github.com/RoyKomodo', gitlab:'https://gitlab.com/hasbiyallah.syafruddin'},
+tech_stack:['VB .Net','C# .Net','Laravel'], hired:false}
 ];
